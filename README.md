@@ -14,7 +14,7 @@ The system's user interface is built with AcrylicUI, offering a sleek and intuit
 ## Installation
 To set up the Student Record Mark Management System, follow these steps:
 1. Clone the repository from GitHub.
-2. Install the required dependencies, including AcrylicUI.
+2. Install the required dependencies (including AcrylicUI if asked).
 3. Configure the database connection settings.
 4. Run the application on your local server or deploy it to a live environment.
 
